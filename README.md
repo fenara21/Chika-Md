@@ -68,21 +68,21 @@ npm start
 ## Edit file
 `./settings.js`
 ```ts
-global.owner = ['6281575886399','6281575886399','6281575886399']
-global.premium = ['6281575886399']
-global.ownernomer = '6281575886399'
-global.ownername = 'RIY'
-global.botname = 'Chika-Md'
-global.footer = 'RIY'
+global.owner = ['6282130217010']
+global.premium = ['6282130217010']
+global.ownernomer = '6282130217010'
+global.ownername = 'AMBISIPRO'
+global.botname = 'AMBISIPRO'
+global.footer = 'AMBISIPRO'
 global.youtube = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw'
-global.ig = 'https://instagram.com/riychdwayne'
+global.ig = 'https://instagram.com/ambisipro'
 global.mygc = 'https://chat.whatsapp.com/CRY23lVKmXB7sCMhHmcwVw'
 global.myweb = 'https://s.id/RiyAPIs'
-global.email = 'riychdwaynee@gmail.com'
+global.email = 'fenararesidance@gmail.com'
 global.region = 'indonesia'
-global.packname = '© Chika-Md'
-global.author = 'RIY'
-global.sessionName = 'chika'
+global.packname = '© AMBISI-Pro'
+global.author = 'AMBISIPRO'
+global.sessionName = 'metaconection'
 ```
 
 ## ```HOW TO DEPLOY```
